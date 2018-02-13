@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Rails kolexion: development" uuid="8675554a-93d4-4fd4-992e-57a32b1a40ea">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:kolexion_development</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails kolexion: test" uuid="1d79eaf0-560c-4620-8f9c-e0467153e24b">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:kolexion_test</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails kolexion: production" uuid="81f77727-4ecd-49e1-b02e-f840e95533d5">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:kolexion_production</jdbc-url>
+    </data-source>
+  </component>
+</project>
