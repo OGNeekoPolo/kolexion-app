@@ -60,3 +60,7 @@ gem 'devise'
 #rails g devise:views to genereate views for customization
 
 gem 'omniauth-facebook'
+
+gem 'bootstrap', '~> 4.0.0'
+gem 'bootswatch'
+gem 'jquery-rails'
